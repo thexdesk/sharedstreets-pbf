@@ -56,7 +56,7 @@
     "write-json-file": "*"
   },
   "dependencies": {
-    "protobufjs": "6.x",
+    "protobufjs": "6.11.3",
     "sharedstreets-types": "1.x"
   }
 }
